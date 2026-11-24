@@ -19,7 +19,7 @@ Built with **Lua and LÖVE2D 11.5**.
 - 🔊 Volume controls
 - ⏩ Track skipping and seeking
 
-<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/b37a6306-7f03-40ed-b4b5-05886726df45" />
+<img width="48%" height="Auto" alt="Image" src="https://github.com/user-attachments/assets/b37a6306-7f03-40ed-b4b5-05886726df45" /> <img width="48%" height="auto" alt="image2" src="https://github.com/user-attachments/assets/068ca266-1c72-4553-8dd1-1805922c8ff4" />
 
 ## 🎼 Audio Formats
 
