@@ -1,1 +1,2 @@
-# -Brickify-A-lightweight-Spotify-inspired-music-player-for-the-R36S-handheld
+#🎵 Brickify
+A lightweight, Spotify-inspired music player for the R36S handheld
