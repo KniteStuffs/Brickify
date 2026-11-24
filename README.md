@@ -1,3 +1,4 @@
+<img width="640" height="480" alt="Image" src="https://github.com/user-attachments/assets/b37a6306-7f03-40ed-b4b5-05886726df45" />
 # 🎵 Brickify
 
 **A lightweight, Spotify-inspired music player for the R36S and other R36-series handhelds.**
